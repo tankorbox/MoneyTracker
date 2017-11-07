@@ -1,0 +1,36 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="fab_margin">16dp</dimen>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="nav_header_vertical_spacing">16dp</dimen>
+    <dimen name="nav_header_height">160dp</dimen>
+
+    <dimen name="icon.size">40dp</dimen>
+    <dimen name="text_view.size.detail_exchange">20sp</dimen>
+    <dimen name="text_view.margin_left">10dp</dimen>
+    <dimen name="image_view.margin">5dp</dimen>
+    <dimen name="view.margin">5dp</dimen>
+    <dimen name="textview.size.fragment_exchange.time_view">25sp</dimen>
+    <dimen name="liner_layout.margin">10dp</dimen>
+    <dimen name="textview.size.tv_total_money">20sp</dimen>
+    <dimen name="item_recycler.spacing">5dp</dimen>
+    <dimen name="textview.size.tv_time">15sp</dimen>
+    <dimen name="textview.size.category">15sp</dimen>
+    <dimen name="picker.margin">20dp</dimen>
+    <dimen name="recycler_view.margin">2dp</dimen>
+    <dimen name="view.padding">5dp</dimen>
+    <dimen name="textview.size.name_account">15sp</dimen>
+    <dimen name="edtNote.margin.lef">5dp</dimen>
+    <dimen name="textview.size.time">18sp</dimen>
+    <dimen name="textview.size.tv_name_category">18sp</dimen>
+    <dimen name="textview.marginleft">5dp</dimen>
+    <dimen name="margin.item.recylerview.accout">10dp</dimen>
+    <dimen name="text_view.size.name_account">15sp</dimen>
+    <dimen name="view.size.height">0.25dp</dimen>
+    <dimen name="view.height.detail_exchange">0.5dp</dimen>
+    <dimen name="textview.height.tv_time">72dp</dimen>
+    <dimen name="view.height">48dp</dimen>
+
+</resources>

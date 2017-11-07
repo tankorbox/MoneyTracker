@@ -1,0 +1,15 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:balloonberry="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/action_edit"
+        android:orderInCategory="10"
+        android:title="@string/menu_item.text.edit"
+        android:icon="@drawable/ic_edit"
+        balloonberry:showAsAction="ifRoom" />
+    <item
+        android:id="@+id/action_delete"
+        android:orderInCategory="10"
+        android:title="@string/menu_item.text.delete"
+        android:icon="@drawable/ic_delete"
+        balloonberry:showAsAction="ifRoom" />
+</menu>

@@ -1,0 +1,58 @@
+<resources>
+    <string name="app_name">Money Tracker</string>
+    <string name="open_drawer">Open</string>
+    <string name="close_drawer">Close</string>
+    <string name="first_app">MoneyTracker</string>
+    <string name="fail_input">Fail Input</string>
+    <string name="serializable_exchange">serializable_exchange</string>
+    <string name="fragment_exchange">fragment_exchange</string>
+    <string name="fragment_plan">fragment_plan</string>
+    <string name="detail_exchange">detail_exchange</string>
+    <string name="position_exchanges">position_exchanges</string>
+    <string name="detail_title">Detail Exchange</string>
+    <string name="dialog_tag">dialog_tag</string>
+    <string name="dialog_button_ok">Ok</string>
+    <string name="dialog_button_cancel">Cancel</string>
+    <string name="question_delete">Delete this Exchange?</string>
+    <string name="name_default_account">Halo</string>
+    <string name="serializableExtra_account">account</string>
+    <string name="textview.text.account_money_exchange">Chi Tiêu:</string>
+    <string name="textview.text.account_available_money">Còn Lại:</string>
+    <string name="textview.text.account_money">Đầu Vào:</string>
+    <string name="add_exchange_plan">AddPlan</string>
+    <string name="total">Total:</string>
+    <string name="time">time</string>
+    <string name="statistical">statistical</string>
+    <string name="dates_future">Select dates in the future!</string>
+    <string name="date">6/9/2016</string>
+    <string name="edittext.hint.money_exchange">Money</string>
+    <string name="edittext.hint.note">Note</string>
+    <string name="edittext.hint.category">Category</string>
+    <string name="notePlan">An Toi</string>
+    <string name="moneyValue">10000$</string>
+    <string name="timeViewPlan">12/3/2015</string>
+    <string name="menu_item.text.day">Day</string>
+    <string name="menu_item.text.month">Month</string>
+    <string name="menu_item.text.year">Year</string>
+    <string name="menu_item.text.save">Save</string>
+    <string name="menu_item.text.add">Add</string>
+    <string name="menu_item.text.edit">Edit</string>
+    <string name="menu_item.text.delete">Delete</string>
+    <string name="chart.text.category_hub"># Category</string>
+    <string name="popup.traded">Traded</string>
+    <string name="popup.detail">Detail</string>
+    <string name="title.detail.statistical">Tap to view detailed statistics</string>
+    <string name="title.summary">Overview</string>
+    <string-array name="list_category">
+        <item>Food</item>
+        <item>House</item>
+        <item>Shopping</item>
+        <item>Entertainment</item>
+        <item>Learning</item>
+        <item>Travel</item>
+        <item>Health</item>
+        <item>Sports</item>
+        <item>Pets</item>
+        <item>Gifts</item>
+    </string-array>
+</resources>
